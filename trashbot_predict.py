@@ -15,7 +15,7 @@ def trashbot_predict(dataset, model, blur_factor=3):
     # Log in to huggingface hub
     auth_token = ... # ENTER HF USER AUTH TOKEN
     login(auth_token)
-    hf_username = ... # ENTER HF USERNAME
+    hf_username = mraottth
     hub_model_id = model
     dataset_name = dataset
 
