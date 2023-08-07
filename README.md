@@ -23,6 +23,8 @@ We aim to develop a scalable, repeatable, ethical, and cost-effective way to fin
 
 First, we conduct aerial surveys of Kanifing neighborhoods using a camera drone. Next, we train a neural network to identify trash in aerial photos and apply it to our drone images. We call this computer vision model TrashBot. Finally, we stitch together images that have been run through TrashBot to create interactive maps that highlight openly dumped trash, allowing KMC to find, map, and measure unregulated dumpsites.
 
+<img width="1229" alt="Screenshot 2023-08-07 at 12 20 06 PM" src="https://github.com/mraottth/TrashBot/assets/64610726/907ce1ab-54a7-47b9-9e2e-6ae2eb73f3ee">
+
 
 **Results & Deliverables:** 
 
