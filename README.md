@@ -34,6 +34,13 @@ __________________
 As a proof of concept, we surveyed over 600 acres in 5 Kanifing neighborhoods, where we located nearly 400,000 square feet of trash. We provide KMC with seven TrashBot maps and a suite of custom software tools so they can run the methodology independently.
 
 
+<img width="1026" alt="Screenshot 2023-08-07 at 12 26 10 PM" src="https://github.com/mraottth/TrashBot/assets/64610726/a593f925-a390-4c49-8290-a93eff717181">
+
+
+__________________
+
+
+
 **Recommendations:** 
 
 Due to privacy implications inherent to the use of drones and machine learning, we set technical & operational standards for the ethical use of our methodology. These include image obfuscation, data security measures, purpose limitation, and democratic controls.
@@ -43,6 +50,4 @@ Finally, we develop six use cases for KMC to apply our methods to its most press
 3. Waste management metric tracking
 4. Finding and closing unregulated dumpsites 5. Modeling health and environmental risk
 6. Expanding service range strategically
-
-<img width="904" alt="Screenshot 2023-08-07 at 12 18 41 PM" src="https://github.com/mraottth/TrashBot/assets/64610726/59b05b9e-d336-4450-816b-0d0560126ea5">
 
