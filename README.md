@@ -38,3 +38,6 @@ Finally, we develop six use cases for KMC to apply our methods to its most press
 3. Waste management metric tracking
 4. Finding and closing unregulated dumpsites 5. Modeling health and environmental risk
 6. Expanding service range strategically
+
+<img width="904" alt="Screenshot 2023-08-07 at 12 18 41 PM" src="https://github.com/mraottth/TrashBot/assets/64610726/59b05b9e-d336-4450-816b-0d0560126ea5">
+
