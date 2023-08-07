@@ -26,6 +26,8 @@ First, we conduct aerial surveys of Kanifing neighborhoods using a camera drone.
 <img width="1229" alt="Screenshot 2023-08-07 at 12 20 06 PM" src="https://github.com/mraottth/TrashBot/assets/64610726/907ce1ab-54a7-47b9-9e2e-6ae2eb73f3ee">
 
 
+
+
 **Results & Deliverables:** 
 
 As a proof of concept, we surveyed over 600 acres in 5 Kanifing neighborhoods, where we located nearly 400,000 square feet of trash. We provide KMC with seven TrashBot maps and a suite of custom software tools so they can run the methodology independently.
